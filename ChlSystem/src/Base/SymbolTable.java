@@ -30,7 +30,7 @@ class Function {
     }
 
     /**
-     *
+     * 获取形参名字
      */
     public String[] getParameters() {
         return parametersname;
