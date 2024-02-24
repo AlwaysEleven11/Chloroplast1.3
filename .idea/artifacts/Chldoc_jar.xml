@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Chldoc.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Chldoc_jar</output-path>
+    <root id="archive" name="Chldoc.jar">
+      <element id="module-output" name="Chldoc" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CNI/CNI.iml" filepath="$PROJECT_DIR$/CNI/CNI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChlSystem/ChlSystem.iml" filepath="$PROJECT_DIR$/ChlSystem/ChlSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chldoc/Chldoc.iml" filepath="$PROJECT_DIR$/Chldoc/Chldoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chloroplast.iml" filepath="$PROJECT_DIR$/Chloroplast.iml" />
+    </modules>
+  </component>
+</project>
